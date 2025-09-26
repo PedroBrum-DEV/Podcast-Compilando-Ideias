@@ -1,0 +1,59 @@
+## Roteiro
+
+### Introdução (2 min)
+
+- Boas-vindas ao primeiro episódio do Compilando Ideias
+- Breve explicação sobre a proposta do podcast
+- Apresentação do tema: Java 21 e suas novidades
+
+### Atualização semanal (4 min)
+
+- Lançamento oficial do Java 21 como versão LTS
+- Spring Boot 3.2 com suporte ao Java 21
+- Adoção do Java 21 por grandes empresas
+
+### Tema principal: Java 21 (12 min)
+
+- Virtual Threads
+    
+    Explicar como os virtual threads resolvem o problema de bloqueio de threads e melhoram a eficiência em aplicações de alta concorrência. Demonstrar como converter código existente para usar virtual threads com exemplos práticos.
+    
+- Pattern Matching para Switch
+    
+    Mostrar como o pattern matching deixa o código mais limpo e legível, substituindo cascatas de if/else por expressões switch mais poderosas. Incluir exemplos comparando código antes e depois.
+    
+- Record Patterns
+    
+    Explorar como os record patterns facilitam a extração de dados de estruturas complexas. Demonstrar exemplos de desestruturação de records aninhados.
+    
+- Sequenced Collections
+    
+    Explicar a nova interface SequencedCollection e como ela unifica operações de primeiro/último elemento nas coleções, facilitando a manipulação de dados.
+    
+
+### Dica da semana (4 min)
+
+JBang: Ferramenta para executar scripts Java sem necessidade de projeto completo - perfeita para testar rapidamente as novidades do Java 21.
+
+### Perguntas da comunidade (5 min)
+
+- "Vale a pena migrar para o Java 21 agora ou esperar?"
+- "Como fazer uma migração segura para o Java 21?"
+- "Quais recursos do Java 21 têm maior impacto em APIs?"
+
+### Encerramento (2 min)
+
+- Recapitulação dos pontos principais
+- Anúncio do próximo episódio: "Spring Boot 3: Principais mudanças e melhorias"
+- Convite para enviar perguntas e sugestões de temas
+
+## 🔗 Links para mencionar
+
+- Documentação oficial do Java 21: https://docs.oracle.com/en/java/javase/21/
+- JEP para Virtual Threads: https://openjdk.org/jeps/444
+- Site do JBang: https://www.jbang.dev/
+
+## 📊 Métricas esperadas
+
+- Duração estimada: 28-30 minutos
+- Público-alvo: Desenvolvedores Java de todos os níveis

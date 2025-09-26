@@ -1,0 +1,2 @@
+Imagine que voce é um roteirista e Faça Para Mim Um roteiro de um podcast que fale sobre backend focado em Java.
+Nesse roteiro de primeiro episodio vamos pegar um tema em alta da linguagem de programação Java e trazer ao publico de uma forma descontraida e misturada com falas mais descontraidas para cativar o publico mais jovem. 
